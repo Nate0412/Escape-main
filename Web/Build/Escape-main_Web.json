@@ -1,0 +1,16 @@
+{
+"companyName": "Tonystark",
+"productName": "Escape room",
+"productVersion": "1.0",
+"dataUrl": "Escape-main_Web.data.unityweb",
+"wasmCodeUrl": "Escape-main_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Escape-main_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
